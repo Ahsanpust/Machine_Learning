@@ -1,1 +1,28 @@
 
+Machine Learning With Python
+PYTHON TOPICS COVERED
+	Built-in Data Structures List, Tuples, Sets, Dictionary,
+	While loop and For loop and List Comprehension.
+	Function and Lambda function, map, reduce and filter.
+	File and Exception Handling, Types of errors.
+	Standard Libraries: OS, Math, Random, DateTime.
+DATA PRE-PROCESSING TOPICS COVERED
+	NumPy N-Dimensional Array
+	Pandas Data Pre-processing
+	Matplotlib Data Visualization
+	Seaborn Data Visualization
+	Plotly Interactive Visualization
+PROBABILITY AND STATISTICS TOPICS COVERED
+	Statistics
+	Probability
+	Hypotheses testing
+MACHINE LEARNING TOPICS COVERED
+	Intro Machine Learning, Types
+	Supervised Machine Learning -
+	Regression- Linear Regression, KNN
+	Classification Logistic Regression, KNN
+	Decision Tree, Random Forest
+	Un-Supervised Machine Learning
+	Clustering Algorithms
+	Reinforcement Learning Q Learning.
+
