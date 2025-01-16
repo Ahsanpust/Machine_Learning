@@ -21,3 +21,22 @@ y = data_frame[predicted_class_name].values
 
 split_test_size = 0.30
 
+#This specifies that 30% of the data will be used for testing and the remaining 70% for training.
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=split_test_size, random_state=35)
+
+##Parameters:
+
+#X, y: Feature matrix and target array.
+#test_size=split_test_size: Specifies the proportion of the dataset to include in the test split (30% here).
+#random_state=35: Ensures the split is reproducible. The same random_state value will produce the same split each time.
+
+#Outputs:
+
+#X_train: Training set for the feature matrix.
+#X_test: Testing set for the feature matrix.
+#y_train: Training set for the target variable.
+#y_test: Testing set for the target variable.
+
+
+
